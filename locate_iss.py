@@ -1,4 +1,3 @@
-
 # Edison Er
 # 09/09/19
 
@@ -36,7 +35,7 @@ for num in range(amount):
     risetime = passing_response.json()['response'][num]['risetime']
     duration = passing_response.json()['response'][num]['duration']
     
-    print("At risetime %d, it will pass for a duration of %d." % (risetime, duration))
+    print("At risetime %d, it will pass for a duration of %d seconds." % (risetime, duration))
 
 #----------------------------------------------------------------------------------------------------------#
 
@@ -52,6 +51,3 @@ for num in range(len(people_response.json()['people'])):
     name = people_response.json()['people'][num]['name']
     craft = people_response.json()['people'][num]['craft']
     print("%s on the %s." % (name, craft))
-
-
-
