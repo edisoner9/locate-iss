@@ -1,3 +1,5 @@
+
+
 # Edison Er
 # 09/09/19
 
@@ -51,3 +53,5 @@ for num in range(len(people_response.json()['people'])):
     name = people_response.json()['people'][num]['name']
     craft = people_response.json()['people'][num]['craft']
     print("%s on the %s." % (name, craft))
+
+
