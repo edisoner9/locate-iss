@@ -1,0 +1,18 @@
+The current location of the ISS at timestamp 1568990362 is 22.8919 degrees latitude and 48.5069 degrees longitude.
+
+The ISS will pass over the location 45.000000 degrees latitude and -122.300000 degrees longitude 5 times.
+
+At risetime 1569029419, it will pass for a duration of 339.
+At risetime 1569035028, it will pass for a duration of 627.
+At risetime 1569040822, it will pass for a duration of 642.
+At risetime 1569046670, it will pass for a duration of 618.
+At risetime 1569052498, it will pass for a duration of 639.
+
+There are 6 people in space right now. They are:
+
+Alexey Ovchinin on the ISS.
+Nick Hague on the ISS.
+Christina Koch on the ISS.
+Alexander Skvortsov on the ISS.
+Luca Parmitano on the ISS.
+Andrew Morgan on the ISS.
